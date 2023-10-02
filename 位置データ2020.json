@@ -1,0 +1,554 @@
+{
+    "521": {
+        "category": "establishment",
+        "latitude": 36.56156076,
+        "longitude": 136.659213,
+        "direction": 7,
+        "floor": 1,
+        "description": "広坂交差点"
+    },
+    "522": {
+        "category": "establishment",
+        "latitude": 36.56150658,
+        "longitude": 136.6592534,
+        "direction": 0,
+        "floor": 1,
+        "description": "広坂交差点"
+    },
+    "524": {
+        "category": "road",
+        "latitude": 36.56059855,
+        "longitude": 136.65916,
+        "direction": 3,
+        "floor": 1,
+        "description": "21美入り口東"
+    },
+    "528": {
+        "category": "road",
+        "latitude": 36.56057323,
+        "longitude": 136.6591594,
+        "direction": 3,
+        "floor": 1,
+        "description": "21美前バス停"
+    },
+    "529": {
+        "category": "road",
+        "latitude": 36.56018078,
+        "longitude": 136.6591835,
+        "direction": 3,
+        "floor": 1,
+        "description": "21美遊歩道入り口東"
+    },
+    "530": {
+        "category": "road",
+        "latitude": 36.55944842,
+        "longitude": 136.6591531,
+        "direction": 0,
+        "floor": 1,
+        "description": "歌劇座交差点"
+    },
+    "532": {
+        "category": "road",
+        "latitude": 36.55944465,
+        "longitude": 136.6590928,
+        "direction": 0,
+        "floor": 1,
+        "description": "歌劇座交差点"
+    },
+    "536": {
+        "category": "establishment",
+        "latitude": 36.55946401,
+        "longitude": 136.6583298,
+        "direction": 1,
+        "floor": 1,
+        "description": "交流サロン前"
+    },
+    "544": {
+        "category": "establishment",
+        "latitude": 36.55946939,
+        "longitude": 136.6582714,
+        "direction": 1,
+        "floor": 1,
+        "description": "交流サロン前"
+    },
+    "545": {
+        "category": "road",
+        "latitude": 36.55947262,
+        "longitude": 136.6582399,
+        "direction": 1,
+        "floor": 1,
+        "description": "偉人館周辺"
+    },
+    "546": {
+        "category": "road",
+        "latitude": 36.55938214,
+        "longitude": 136.6582305,
+        "direction": 1,
+        "floor": 1,
+        "description": "偉人館周辺"
+    },
+    "548": {
+        "category": "road",
+        "latitude": 36.55939399,
+        "longitude": 136.6580843,
+        "direction": 0,
+        "floor": 1,
+        "description": "偉人館周辺"
+    },
+    "560": {
+        "category": "road",
+        "latitude": 36.55963665,
+        "longitude": 136.657271,
+        "direction": 2,
+        "floor": 1,
+        "description": "偉人館周辺"
+    },
+    "576": {
+        "category": "road",
+        "latitude": 36.560245,
+        "longitude": 136.6568943,
+        "direction": 9,
+        "floor": 1,
+        "description": "柿の木畠入口"
+    },
+    "577": {
+        "category": "road",
+        "latitude": 36.5603049,
+        "longitude": 136.6565499,
+        "direction": 1,
+        "floor": 1,
+        "description": "柿の木畠"
+    },
+    "578": {
+        "category": "road",
+        "latitude": 36.56051114,
+        "longitude": 136.6569322,
+        "direction": 10,
+        "floor": 1,
+        "description": "市役所21美横断歩道"
+    },
+    "580": {
+        "category": "road",
+        "latitude": 36.56049606,
+        "longitude": 136.6570858,
+        "direction": 10,
+        "floor": 1,
+        "description": "市役所21美横断歩道"
+    },
+    "584": {
+        "category": "road",
+        "latitude": 36.56130519,
+        "longitude": 136.6572116,
+        "direction": 10,
+        "floor": 1,
+        "description": "21美市役所側入り口"
+    },
+    "592": {
+        "category": "road",
+        "latitude": 36.56136552,
+        "longitude": 136.6572209,
+        "direction": 9,
+        "floor": 1,
+        "description": "市役所21美横断歩道"
+    },
+    "608": {
+        "category": "road",
+        "latitude": 36.56056995,
+        "longitude": 136.6569415,
+        "direction": 10,
+        "floor": 1,
+        "description": "側道"
+    },
+    "640": {
+        "category": "road",
+        "latitude": 36.56063903,
+        "longitude": 136.6569513,
+        "direction": 10,
+        "floor": 1,
+        "description": "側道"
+    },
+    "641": {
+        "category": "road",
+        "latitude": 36.56085418,
+        "longitude": 136.6569835,
+        "direction": 10,
+        "floor": 1,
+        "description": "市役所前バス停"
+    },
+    "642": {
+        "category": "establishment",
+        "latitude": 36.56114821,
+        "longitude": 136.6570261,
+        "direction": 9,
+        "floor": 1,
+        "description": "金沢市役所入口"
+    },
+    "643": {
+        "category": "road",
+        "latitude": 36.559397,
+        "longitude": 136.659352,
+        "direction": 0,
+        "floor": 1,
+        "description": "金沢歌劇座前交差点"
+    },
+    "644": {
+        "category": "road",
+        "latitude": 36.56139004,
+        "longitude": 136.6570409,
+        "direction": 10,
+        "floor": 1,
+        "description": "市役所21美横断歩道"
+    },
+    "645": {
+        "category": "road",
+        "latitude": 36.559262,
+        "longitude": 136.659346,
+        "direction": 0,
+        "floor": 1,
+        "description": "金沢歌劇座前交差点"
+    },
+    "646": {
+        "category": "road",
+        "latitude": 36.559299,
+        "longitude": 136.659134,
+        "direction": 3,
+        "floor": 1,
+        "description": "金沢歌劇座前交差点"
+    },
+    "649": {
+        "category": "establishment",
+        "latitude": 36.561336,
+        "longitude": 136.656442,
+        "direction": 9,
+        "floor": 1,
+        "description": "金沢市役所"
+    },
+    "650": {
+        "category": "establishment",
+        "latitude": 36.561201,
+        "longitude": 136.656687,
+        "direction": 6,
+        "floor": 1,
+        "description": "金沢市役所"
+    },
+    "652": {
+        "category": "establishment",
+        "latitude": 36.560169,
+        "longitude": 136.656894,
+        "direction": 9,
+        "floor": 1,
+        "description": "金沢市役所"
+    },
+    "657": {
+        "category": "establishment",
+        "latitude": 36.560152,
+        "longitude": 136.656743,
+        "direction": 1,
+        "floor": 1,
+        "description": "金沢市役所"
+    },
+    "658": {
+        "category": "establishment",
+        "latitude": 36.559618,
+        "longitude": 136.657025,
+        "direction": 10,
+        "floor": 1,
+        "description": "金沢市役所"
+    },
+    "660": {
+        "category": "establishment",
+        "latitude": 36.55966,
+        "longitude": 136.656897,
+        "direction": 10,
+        "floor": 1,
+        "description": "金沢市役所"
+    },
+    "664": {
+        "category": "establishment",
+        "latitude": 36.559677,
+        "longitude": 136.65677,
+        "direction": 2,
+        "floor": 1,
+        "description": "金沢市役所"
+    },
+    "771": {
+        "category": "road",
+        "latitude": 36.562015,
+        "longitude": 136.654961,
+        "direction": 7,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "773": {
+        "category": "road",
+        "latitude": 36.562015,
+        "longitude": 136.655031,
+        "direction": 7,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "774": {
+        "category": "road",
+        "latitude": 36.561865,
+        "longitude": 136.656385,
+        "direction": 10,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "777": {
+        "category": "road",
+        "latitude": 36.561855,
+        "longitude": 136.656449,
+        "direction": 6,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "778": {
+        "category": "road",
+        "latitude": 36.561792,
+        "longitude": 136.657096,
+        "direction": 10,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "780": {
+        "category": "road",
+        "latitude": 36.561784,
+        "longitude": 136.65724,
+        "direction": 9,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "785": {
+        "category": "road",
+        "latitude": 36.561661,
+        "longitude": 136.658509,
+        "direction": 6,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "786": {
+        "category": "road",
+        "latitude": 36.562824,
+        "longitude": 136.656633,
+        "direction": 6,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "788": {
+        "category": "road",
+        "latitude": 36.562843,
+        "longitude": 136.656536,
+        "direction": 6,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "792": {
+        "category": "road",
+        "latitude": 36.563881,
+        "longitude": 136.656681,
+        "direction": 6,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "801": {
+        "category": "road",
+        "latitude": 36.563872,
+        "longitude": 136.656778,
+        "direction": 6,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "802": {
+        "category": "road",
+        "latitude": 36.564154,
+        "longitude": 136.65694,
+        "direction": 5,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "804": {
+        "category": "road",
+        "latitude": 36.564318,
+        "longitude": 136.656738,
+        "direction": 4,
+        "floor": 1,
+        "description": "香林坊広坂付近"
+    },
+    "808": {
+        "category": "museum",
+        "latitude": 36.56031,
+        "longitude": 136.661995,
+        "direction": 2,
+        "floor": 1,
+        "description": "県立美術館"
+    },
+    "816": {
+        "category": "museum",
+        "latitude": 36.559994,
+        "longitude": 136.662322,
+        "direction": 2,
+        "floor": 1,
+        "description": "県立美術館"
+    },
+    "833": {
+        "category": "museum",
+        "latitude": 36.559912,
+        "longitude": 136.662398,
+        "direction": 2,
+        "floor": 1,
+        "description": "県立美術館"
+    },
+    "834": {
+        "category": "museum",
+        "latitude": 36.559777,
+        "longitude": 136.662565,
+        "direction": 5,
+        "floor": 1,
+        "description": "県立美術館"
+    },
+    "836": {
+        "category": "museum",
+        "latitude": 36.559796,
+        "longitude": 136.662586,
+        "direction": 5,
+        "floor": 1,
+        "description": "県立美術館"
+    },
+    "840": {
+        "category": "museum",
+        "latitude": 36.559701,
+        "longitude": 136.662633,
+        "direction": 5,
+        "floor": 1,
+        "description": "国立工芸館"
+    },
+    "848": {
+        "category": "museum",
+        "latitude": 36.559564,
+        "longitude": 136.662365,
+        "direction": 2,
+        "floor": 1,
+        "description": "国立工芸館"
+    },
+    "864": {
+        "category": "museum",
+        "latitude": 36.559446,
+        "longitude": 136.662116,
+        "direction": 2,
+        "floor": 1,
+        "description": "国立工芸館"
+    },
+    "897": {
+        "category": "museum",
+        "latitude": 36.55933,
+        "longitude": 136.661947,
+        "direction": 2,
+        "floor": 1,
+        "description": "国立工芸館"
+    },
+    "898": {
+        "category": "establishment",
+        "latitude": 36.55975,
+        "longitude": 136.662923,
+        "direction": 5,
+        "floor": 1,
+        "description": "能楽堂前歩道"
+    },
+    "900": {
+        "category": "establishment",
+        "latitude": 36.5599,
+        "longitude": 136.663207,
+        "direction": 8,
+        "floor": 1,
+        "description": "能楽堂前歩道"
+    },
+    "904": {
+        "category": "establishment",
+        "latitude": 36.55989,
+        "longitude": 136.662741,
+        "direction": 5,
+        "floor": 1,
+        "description": "能楽堂前歩道"
+    },
+    "912": {
+        "category": "establishment",
+        "latitude": 36.559833,
+        "longitude": 136.663277,
+        "direction": 8,
+        "floor": 1,
+        "description": "能楽堂前歩道"
+    },
+    "1048581": {
+        "category": "establishment",
+        "latitude": 36.56074236,
+        "longitude": 136.6554496,
+        "direction": 0,
+        "floor": 1,
+        "description": "全開口笑"
+    },
+    "1048582": {
+        "category": "establishment",
+        "latitude": 36.5605797,
+        "longitude": 136.6562046,
+        "direction": 0,
+        "floor": 1,
+        "description": "金澤鮨　洋次郎"
+    },
+    "1048585": {
+        "category": "establishment",
+        "latitude": 36.56035779,
+        "longitude": 136.6564541,
+        "direction": 0,
+        "floor": 1,
+        "description": "和甘味　つぼみ"
+    },
+    "1048588": {
+        "category": "establishment",
+        "latitude": 36.56133267,
+        "longitude": 136.6546731,
+        "direction": 0,
+        "floor": 1,
+        "description": "カプリス"
+    },
+    "1048593": {
+        "category": "establishment",
+        "latitude": 36.56131112,
+        "longitude": 136.6546972,
+        "direction": 0,
+        "floor": 1,
+        "description": "ヒッコリー"
+    },
+    "1048596": {
+        "category": "establishment",
+        "latitude": 36.56040825,
+        "longitude": 136.6558828,
+        "direction": 0,
+        "floor": 1,
+        "description": "イタリア料理ボーノボーノ"
+    },
+    "1048600": {
+        "category": "establishment",
+        "latitude": 36.56046912,
+        "longitude": 136.6563287,
+        "direction": 0,
+        "floor": 1,
+        "description": "あんこ＆おやつ コジ"
+    },
+    "1048609": {
+        "category": "establishment",
+        "latitude": 36.56059138,
+        "longitude": 136.6557071,
+        "direction": 0,
+        "floor": 1,
+        "description": "花屋マルグリット"
+    },
+    "1048610": {
+        "category": "establishment",
+        "latitude": 36.56085206,
+        "longitude": 136.6558788,
+        "direction": 0,
+        "floor": 1,
+        "description": "いたる本店"
+    }
+}
