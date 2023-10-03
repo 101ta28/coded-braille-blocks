@@ -1,5 +1,5 @@
-import sys
 import json
+import sys
 
 import cv2
 import numpy as np
@@ -113,43 +113,6 @@ def rotate_to_direction_0(image, direction):
         return image
 
 
-NUMBERS_SEQUENCE = [
-    [16777216, 8388608, 4194304, 2097152, 1048576],
-    [524288, 262144, 131072, 65536, 32768],
-    [16384, 8192, 4096, 2048, 1024],
-    [512, 256, 128, 64, 32],
-    [16, 8, 4, 2, 1],
-]
-
-
-if __name__ == "__main__":
-    if len(sys.argv) != 2 or not (sys.argv[1].endswith('.jpg') or sys.argv[1].endswith('.png')):
-        print("Usage: python demo.py <filename.jpg or filename.png>")
-        sys.exit(1)
-
-    image = cv2.imread(sys.argv[1], cv2.IMREAD_GRAYSCALE)
-    triangle_coords = detect_triangle(image)
-    direction = determine_direction(triangle_coords, image.shape)
-    image_rotated = rotate_to_direction_0(image, direction)
-    triangle_coords_rotated = detect_triangle(image_rotated)
-    outer_rectangle = detect_outer_rectangle(image_rotated)
-    image_without_triangle = fill_triangle(
-        image_rotated.copy(), triangle_coords_rotated.reshape(-1, 1, 2)
-    )
-    grid_data = analyze_grid(image_without_triangle, outer_rectangle)
-    classified_cells = classify_cells(grid_data)
-    print(classified_cells)
-
-result_numbers = []
-for i in range(5):
-    for j in range(5):
-        if classified_cells[i][j] == 1:
-            result_numbers.append(NUMBERS_SEQUENCE[i][j])
-sum_result = sum(result_numbers)
-
-print("Sum:", sum_result)
-
-
 def detect_circle(image):
     # Apply Gaussian blur to reduce noise and improve circle detection
     blurred = cv2.GaussianBlur(image, (9, 9), 2)
@@ -174,3 +137,42 @@ def detect_circle(image):
         )
         return sorted_circles[0][:2]  # Return the center of the largest circle
     return None
+
+
+NUMBERS_SEQUENCE = [
+    [16777216, 8388608, 4194304, 2097152, 1048576],
+    [524288, 262144, 131072, 65536, 32768],
+    [16384, 8192, 4096, 2048, 1024],
+    [512, 256, 128, 64, 32],
+    [16, 8, 4, 2, 1],
+]
+
+
+if __name__ == "__main__":
+    if len(sys.argv) != 2 or not (
+        sys.argv[1].endswith(".jpg") or sys.argv[1].endswith(".png")
+    ):
+        print("Usage: python demo.py <filename.jpg or filename.png>")
+        sys.exit(1)
+
+    image = cv2.imread(sys.argv[1], cv2.IMREAD_GRAYSCALE)
+    triangle_coords = detect_triangle(image)
+    direction = determine_direction(triangle_coords, image.shape)
+    image_rotated = rotate_to_direction_0(image, direction)
+    triangle_coords_rotated = detect_triangle(image_rotated)
+    outer_rectangle = detect_outer_rectangle(image_rotated)
+    image_without_triangle = fill_triangle(
+        image_rotated.copy(), triangle_coords_rotated.reshape(-1, 1, 2)
+    )
+    grid_data = analyze_grid(image_without_triangle, outer_rectangle)
+    classified_cells = classify_cells(grid_data)
+    print(classified_cells)
+
+result_numbers = []
+for i in range(5):
+    for j in range(5):
+        if classified_cells[i][j] == 1:
+            result_numbers.append(NUMBERS_SEQUENCE[i][j])
+sum_result = sum(result_numbers)
+
+print("Sum:", sum_result)
