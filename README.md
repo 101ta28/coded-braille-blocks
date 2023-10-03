@@ -28,6 +28,10 @@ $ pip install -r requirements.txt
 
 # デモの実行
 $ python demo.py xxx.{jpg,png}
+
+# 案内データの表示
+$ python guide.py xxx.{jpg,png}
+
 ```
 
 精度は怪しいので、あくまでデモとしてご利用ください。
