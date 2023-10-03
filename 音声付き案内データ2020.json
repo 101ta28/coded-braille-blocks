@@ -1,0 +1,1822 @@
+{
+    "521": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢歌劇座、金沢２１世紀美術館方面です。右は香林坊交差点方面です。この場所のキーワードは「ささがれい」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00521_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は香林坊交差点方面です。左は金沢歌劇座方面です 。右は金沢城公園方面です。この場所のキーワードは「ささがれい」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00521_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢城公園方面です。左は金沢市役所、香林坊交差点方面です。この場所のキーワードは「ささがれい」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00521_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は兼六園入口方面です。左は金沢城公園方面です。右は金沢歌劇座方面です。この場所のキーワードは「ささがれい」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00521_3.mp3"
+        }
+    },
+    "522": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢城公園方面です。左は金沢市役所、香林坊交差点方面です。 右は兼六園真弓坂口、石浦神社方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00522_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は兼六園真弓坂口、石浦神社方面です。右は金沢歌劇座方面です 。",
+            "reading_info": null,
+            "sound_info": "message/wm00522_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢歌劇座方面です 。左は兼六園真弓坂口、石浦神社方面です。右に金沢２１世紀美術館があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00522_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右は金沢市役所、香林坊交差点、金沢城公園方面です。左は金沢歌劇座方面です 。",
+            "reading_info": null,
+            "sound_info": "message/wm00522_3.mp3"
+        }
+    },
+    "524": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "左は広坂交差点、兼六園方面です。右は金沢歌劇座方面です。この場所のキーワードは「まだい」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00524_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢歌劇座方面です。右は金沢２１世紀美術館入口です。この場所のキーワードは「まだい」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00524_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢２１世紀美術館入口です。左は金沢歌劇座方面、右は広坂交差点方面です。この場所のキーワードは「まだい」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00524_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は広坂交差点、兼六園方面です。左は金沢２１世紀美術館入口です。この場所のキーワードは「まだい」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00524_3.mp3"
+        }
+    },
+    "528": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方１メートル先にバス停があります。左は５メートル先に金沢２１世紀美術館入口があります。右は金沢歌劇座方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00528_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢歌劇座方面です。左１メートル先にバス停があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00528_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は金沢歌劇座方面です。右は広坂交差点方面で、５メートル先に金沢２１世紀美術館入口があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00528_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は広坂交差点方面です。５メートル先左手に金沢２１世紀美術館入口があります。右１メートル先にバス停があります。",
+            "reading_info": "前方は広坂交差点方面です。５メートル先,左手に金沢２１世紀美術館入口があります。右１メートル先にバス停があります。",
+            "sound_info": "message/wm00528_3.mp3"
+        }
+    },
+    "529": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "左は広坂交差点、兼六園方面です。右は金沢歌劇座方面です。この場所のキーワードは「のどぐろ」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00529_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢歌劇座方面です。右は金沢市役所、柿木畠方面です。この場所のキーワードは「のどぐろ」です。",
+            "reading_info": "前方は金沢歌劇座方面です。右は金沢市役所、カキノキバタケ方面です。この場所のキーワードは「のどぐろ」です。",
+            "sound_info": "message/wm00529_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は市役所、柿木畠方面です。左は金沢歌劇座方面です。右は兼六園方面です。この場所のキーワードは「のどぐろ」です。",
+            "reading_info": "前方は市役所、カキノキバタケ方面です。左は金沢歌劇座方面です。右は兼六園方面です。この場所のキーワードは「のどぐろ」です。",
+            "sound_info": "message/wm00529_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢２１世紀美術館、兼六園方面です。左は市役所、柿木畠方面です。この場所のキーワードは「のどぐろ」です。",
+            "reading_info": "前方は金沢２１世紀美術館、兼六園方面です。左は市役所、カキノキバタケ方面です。この場所のキーワードは「のどぐろ」です。",
+            "sound_info": "message/wm00529_3.mp3"
+        }
+    },
+    "530": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は広坂交差点方面です。左は側道です。右は本多公園方面への横断歩道です。この場所のキーワードは「ずわいがに」です。",
+            "reading_info": "前方は広坂交差点方面です。左は側道です。右は本多公園方面への横断歩道です。この場所のキーワードは「ズワイガニ」です。",
+            "sound_info": "message/wm00530_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は本多公園方面、右は金沢歌劇座方面への横断歩道です。左は広坂交差点方面です。この場所のキーワードは「ずわいがに」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00530_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢歌劇座方面、左は本多公園方面への横断歩道です。右は側道です。この場所のキーワードは「ずわいがに」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00530_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は側道です。左は金沢歌劇座方面への横断歩道です。右は広坂交差点方面です。この場所のキーワードは「ずわいがに」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00530_3.mp3"
+        }
+    },
+    "532": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "右は側道です。注意してください。その先に本多公園方面への横断歩道があります。左は金沢市役所方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00532_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は側道です。注意してください。その先に本多公園方面への横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00532_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は側道です、注意してください。その先に本多公園方面への横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00532_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢市役所、ふるさと偉人館、石川国際交流サロン方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00532_3.mp3"
+        }
+    },
+    "536": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "左は側道です。側道を直進すると石川国際交流サロン方面です。右は金沢歌劇座前交差点方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00536_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢歌劇座前交差点方面です。左は１０メートルで石川国際交流サロンです。点字ブロックはありません。",
+            "reading_info": null,
+            "sound_info": "message/wm00536_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "右は側道です、注意してください。左は金沢歌劇座前交差点方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00536_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は側道です。側道を右に１０メートル進むと石川国際交流サロン入口です。点字ブロックはありません。",
+            "reading_info": null,
+            "sound_info": "message/wm00536_3.mp3"
+        }
+    },
+    "544": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "左は柿木畠方面です。右は側道です。その先は金沢歌劇座前交差点方面です。側道前方は石川国際交流サロン方面です。",
+            "reading_info": "左はカキノキバタケ方面です。右は側道で、その先は金沢歌劇座前交差点方面です。側道前方は石川国際交流サロン方面です。",
+            "sound_info": "message/wm00544_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は側道です。その先は金沢歌劇座前交差点方面です。左は石川国際交流サロン方面です。点字ブロックはありません。",
+            "reading_info": null,
+            "sound_info": "message/wm00544_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は側道です、注意してください。右は柿木畠方面です。",
+            "reading_info": "左は側道です、注意してください。右はカキノキバタケ方面です。",
+            "sound_info": "message/wm00544_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は柿木畠方面です。右は１０メートルで石川国際交流サロン入口です。点字ブロックはありません。",
+            "reading_info": "前方はカキノキバタケ方面です。右は１０メートルで石川国際交流サロン入口です。点字ブロックはありません。",
+            "sound_info": "message/wm00544_3.mp3"
+        }
+    },
+    "545": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "右は金沢歌劇座前交差点、本多公園、中村記念美術館方面です。左は知事公舎、市役所、柿木畠方面です。",
+            "reading_info": "右は金沢歌劇座前交差点、本多公園、中村記念美術館方面です。左は知事公舎、市役所、カキノキバタケ方面です。",
+            "sound_info": "message/wm00545_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢歌劇座前交差点、本多公園、中村記念美術館方面です。右は金沢ふるさと偉人館方面への横断歩道です。",
+            "reading_info": null,
+            "sound_info": "message/wm00545_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方はふるさと偉人館方面への横断歩道です。右は金沢市役所、柿木畠方面です。左は金沢歌劇座前交差点方面です。",
+            "reading_info": "前方はふるさと偉人館方面への横断歩道です。右は金沢市役所、カキノキバタケ方面です。左は金沢歌劇座前交差点方面です。",
+            "sound_info": "message/wm00545_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢市役所、柿木畠方面です。左は金沢ふるさと偉人館方面への横断歩道です。",
+            "reading_info": "前方は金沢市役所、カキノキバタケ方面です。左は金沢ふるさと偉人館方面への横断歩道です。",
+            "sound_info": "message/wm00545_3.mp3"
+        }
+    },
+    "546": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は横断歩道があります。左は金沢ふるさと偉人館方面、右は金沢歌劇座方面です。この場所のキーワードは「はたはた」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00546_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢歌劇座前交差点方面です。左は石川国際交流サロン方面への横断歩道です。この場所のキーワードは「はたはた」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00546_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "右は市役所、柿木畠方面です。左は金沢歌劇座前交差点方面です。この場所のキーワードは「はたはた」です。",
+            "reading_info": "右は市役所、カキノキバタケ方面です。左は金沢歌劇座前交差点方面です。この場所のキーワードは「はたはた」です。",
+            "sound_info": "message/wm00546_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は市役所、柿木畠方面です。右は石川国際交流サロン方面への横断歩道があります。この場所のキーワードは「はたはた」です。",
+            "reading_info": "前方は市役所、カキノキバタケ方面です。右は石川国際交流サロン方面への横断歩道があります。この場所のキーワードは「はたはた」です。",
+            "sound_info": "message/wm00546_3.mp3"
+        }
+    },
+    "548": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は菊川ルートふらっとバス停です。左は金沢ふるさと偉人館、市役所、柿木畠方面です。右は金沢歌劇座前交差点方面です。",
+            "reading_info": "前方は菊川ルートふらっとバス停です。左は金沢ふるさと偉人館、市役所、カキノキバタケ方面です。右は金沢歌劇座前交差点方面です。",
+            "sound_info": "message/wm00548_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢歌劇座前交差点方面です。左は菊川ルートふらっとバス停です。",
+            "reading_info": null,
+            "sound_info": "message/wm00548_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は金沢歌劇座前交差点方面です。右は金沢ふるさと偉人館、金沢市役所、柿木畠方面です。",
+            "reading_info": "左は金沢歌劇座前交差点方面です。右は金沢ふるさと偉人館、金沢市役所、カキノキバタケ方面です。",
+            "sound_info": "message/wm00548_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢ふるさと偉人館、金沢市役所、柿木畠方面です。右は菊川ルートふらっとバス停です。",
+            "reading_info": "前方は金沢ふるさと偉人館、金沢市役所、カキノキバタケ方面です。右は菊川ルートふらっとバス停です。",
+            "sound_info": "message/wm00548_3.mp3"
+        }
+    },
+    "560": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "左は金沢市役所、金沢２１世紀美術館、柿木畠方面です。右は石川国際交流サロン、金沢歌劇座前交差点方面です。",
+            "reading_info": "左は金沢市役所、金沢２１世紀美術館、カキノキバタケ方面です。右は石川国際交流サロン、金沢歌劇座前交差点方面です。",
+            "sound_info": "message/wm00560_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は石川国際交流サロン、金沢歌劇座前交差点方面です。右は金沢ふるさと偉人館方面への横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00560_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方はふるさと偉人館方面への横断歩道です。左は金沢歌劇座前交差点方面です。右は金沢市役所方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00560_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢市役所、金沢２１世紀美術館、柿木畠方面です。左は金沢ふるさと偉人館方面への横断歩道です。",
+            "reading_info": "前方は金沢市役所、金沢２１世紀美術館、カキノキバタケ方面です。左は金沢ふるさと偉人館方面への横断歩道です。",
+            "sound_info": "message/wm00560_3.mp3"
+        }
+    },
+    "576": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は柿木畠方面です。左は金沢歌劇座前交差点方面です。右は金沢市役所方面です。この場所のキーワードは「あんこう」です。",
+            "reading_info": "前方はカキノキバタケ方面です。左はふるさと偉人館、金沢歌劇座前交差点方面です。右は金沢市役所方面です。この場所のキーワードは「あんこう」です。",
+            "sound_info": "message/wm00576_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は市役所方面です。左は柿木畠方面です。この場所のキーワードは「あんこう」です。",
+            "reading_info": "前方は市役所方面です。左はカキノキバタケ方面です。この場所のキーワードは「あんこう」です。",
+            "sound_info": "message/wm00576_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は市役所方面です。右はふるさと偉人館、金沢歌劇座前交差点方面です。この場所のキーワードは「あんこう」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00576_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方はふるさと偉人館、金沢歌劇座前交差点方面です。右は柿木畠方面です。この場所のキーワードは「あんこう」です。",
+            "reading_info": "前方はふるさと偉人館、金沢歌劇座前交差点方面です。右はカキノキバタケ方面です。この場所のキーワードは「あんこう」です。",
+            "sound_info": "message/wm00576_3.mp3"
+        }
+    },
+    "577": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "左は柿木畠商店街です。右は金沢市役所方面です。ちなみに、ズワイガニはおよそ7年から8年で親ガニになると考えられています。",
+            "reading_info": "左はカキノキバタケ商店街です。右は金沢市役所方面です。ちなみに、ズワイガニはおよそ7年から8年で親ガニになると考えられています。",
+            "sound_info": "message/wm00577_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢市役所方面です。ちなみに、石川県で水揚げされる雄のズワイガニは「加能がに」、雌は「香箱がに」と呼ばれます。",
+            "reading_info": null,
+            "sound_info": "message/wm00577_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は金沢市役所方面です。右は柿木畠商店街です。ちなみに、ゲンゲは漢字で「幻の魚（幻魚）」と書きます。",
+            "reading_info": "左は金沢市役所方面です。右はカキノキバタケ商店街です。ちなみに、ゲンゲは漢字で「幻の魚」、水深100メートルより深い海域で生息しています。",
+            "sound_info": "message/wm00577_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は柿木畠商店街です。この先、誘導用の点字ブロックはありませんが、お店の前に点字ブロックがある場合は、音声案内を聞いてみてください。商店街をぬけると香林坊近くにでます。",
+            "reading_info": "前方はカキノキバタケ商店街です。この先、誘導用の点字ブロックはありませんが、お店の前に点字ブロックがある場合は、音声案内を聞いてみてください。商店街をぬけると香林坊近くにでます。",
+            "sound_info": "message/wm00577_3.mp3"
+        }
+    },
+    "578": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "右は市役所、広坂２丁目交差点方面、左はふるさと偉人館、柿木畠方面です。この場所のキーワードは「あかえび」です。",
+            "reading_info": "右は市役所、広坂２丁目交差点方面、左はふるさと偉人館、カキノキバタケ方面です。この場所のキーワードは「あかえび」です。",
+            "sound_info": "message/wm00578_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢市役所方面です。右は金沢２１世紀美術館方面への横断歩道があります。この場所のキーワードは「あかえび」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00578_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は横断歩道があります。左は金沢市役所方面です。右は柿木畠方面です。この場所のキーワードは「あかえび」です。",
+            "reading_info": "前方は横断歩道があります。左は金沢市役所方面です。右はカキノキバタケ方面です。この場所のキーワードは「あかえび」です。",
+            "sound_info": "message/wm00578_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は柿木畠方面です。左は金沢２１世紀美術館方面への横断歩道があります。この場所のキーワードは「あかえび」です。",
+            "reading_info": "前方はカキノキバタケ方面です。左は２メートル先に金沢２１世紀美術館方面への横断歩道があります。この場所のキーワードは「あかえび」です。",
+            "sound_info": "message/wm00578_3.mp3"
+        }
+    },
+    "580": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢市役所方面への横断歩道があります。左は金沢歌劇座前交差点方面です。右は広坂２丁目交差点方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00580_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は広坂２丁目交差点方面です。左は金沢市役所方面への横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00580_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は広坂２丁目交差点方面です。右はふるさと偉人館、金沢歌劇座交差点方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00580_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方はふるさと偉人館、金沢歌劇座交差点方面です。右は１メートル先に市役所、柿木畠方面への横断歩道があります。",
+            "reading_info": "前方はふるさと偉人館、金沢歌劇座交差点方面です。右は１メートル先に市役所、カキノキバタケ方面への横断歩道があります。",
+            "sound_info": "message/wm00580_3.mp3"
+        }
+    },
+    "584": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "左は柿木畠、ふるさと偉人館方面です。右は広坂２丁目交差点、しいのき迎賓館方面です。",
+            "reading_info": "左はカキノキバタケ、ふるさと偉人館方面です。右は広坂２丁目交差点、しいのき迎賓館方面です。",
+            "sound_info": "message/wm00584_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は広坂２丁目交差点、しいのき迎賓館方面です。右は金沢２１世紀美術館市役所側入口です。",
+            "reading_info": null,
+            "sound_info": "message/wm00584_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢２１世紀美術館入口です。 左は広坂２丁目交差点、しいのき迎賓館方面です。右は柿木畠、ふるさと偉人館方面です。",
+            "reading_info": "前方は金沢２１世紀美術館入口です。 左は広坂２丁目交差点、しいのき迎賓館方面です。右はカキノキバタケ、ふるさと偉人館方面です。",
+            "sound_info": "message/wm00584_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は柿木畠、ふるさと偉人館方面です。左は金沢２１世紀美術館入口です。",
+            "reading_info": "前方はカキノキバタケ、ふるさと偉人館方面です。左は金沢２１世紀美術館入口です。",
+            "sound_info": "message/wm00584_3.mp3"
+        }
+    },
+    "592": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は市役所方面への横断歩道です。左は金沢２１世紀美術館入口、柿木畠方面です。右は広坂２丁目交差点方面です。",
+            "reading_info": "前方は市役所方面への横断歩道です。左は金沢２１世紀美術館入口、カキノキバタケ方面です。右は広坂２丁目交差点方面です。",
+            "sound_info": "message/wm00592_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は広坂２丁目交差点、しいのき迎賓館方面です。左は２メートル先に市役所への横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00592_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は広坂２丁目交差点、しいのき迎賓館方面です。右は金沢２１世紀美術館入口、柿木畠、ふるさと偉人館方面です。",
+            "reading_info": "左は広坂２丁目交差点、しいのき迎賓館方面です。右は金沢２１世紀美術館入口、カキノキバタケ、ふるさと偉人館方面です。",
+            "sound_info": "message/wm00592_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢２１世紀美術館入口、柿木畠、ふるさと偉人館方面です。右は２メートル先に市役所への横断歩道があります。",
+            "reading_info": "前方は金沢２１世紀美術館入口、カキノキバタケ、ふるさと偉人館方面です。右は２メートル先に市役所への横断歩道があります。",
+            "sound_info": "message/wm00592_3.mp3"
+        }
+    },
+    "608": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "この方向への案内情報はありません。",
+            "reading_info": null,
+            "sound_info": "message/wm00608_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は側道です。注意してください。この先は金沢市役所入口、広坂2丁目交差点方面です。２０メートル先にバス停があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00608_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "この方向への案内情報はありません。",
+            "reading_info": null,
+            "sound_info": "message/wm00608_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "側道おわりです。前方は柿木畠、ふるさと偉人館方面です。",
+            "reading_info": "側道おわりです。前方はカキノキバタケ、ふるさと偉人館方面です。",
+            "sound_info": "message/wm00608_3.mp3"
+        }
+    },
+    "640": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "右は市役所、広坂２丁目交差点方面です。左は側道です、注意してください。この場所のキーワードは「がすえび」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00640_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "側道おわりです。前方は金沢市役所入口方面です。２０メートル先にバス停があります。この場所のキーワードは「がすえび」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00640_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は金沢市役所入口方面です。右は側道です、注意してください。この場所のキーワードは「がすえび」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00640_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は側道です。注意してください。この先は柿木畠方面です。この場所のキーワードは「がすえび」です。",
+            "reading_info": "前方は側道です。注意してください。この先はカキノキバタケ、ふるさと偉人館方面です。この場所のキーワードは「がすえび」です。",
+            "sound_info": "message/wm00640_3.mp3"
+        }
+    },
+    "641": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "右は金沢市役所入口、広坂２丁目交差点方面です。左は柿木畠方面です。この場所のキーワードは「さば」です。",
+            "reading_info": "右は金沢市役所入口、広坂２丁目交差点方面です。左はカキノキバタケ、ふるさと偉人館方面です。この場所のキーワードは「さば」です。",
+            "sound_info": "message/wm00641_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "ここはふらっとバス停前です。前方は金沢市役所入口、広坂２丁目交差点方面です。この場所のキーワードは「さば」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00641_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "ここは菊川ルートふらっとバス停前です。この場所のキーワードは「さば」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00641_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "ここは菊川ルートふらっとバス停前です。前方は柿木畠、ふるさと偉人館方面です。この場所のキーワードは「さば」です。",
+            "reading_info": "ここは菊川ルートふらっとバス停前です。前方はカキノキバタケ、ふるさと偉人館方面です。この場所のキーワードは「さば」です。",
+            "sound_info": "message/wm00641_3.mp3"
+        }
+    },
+    "642": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢市役所入口です。右は広坂２丁目交差点方面です。左は柿木畠方面です。この場所のキーワードは「げんげ」です。",
+            "reading_info": "前方は金沢市役所入口です。右は広坂２丁目交差点方面です。左はカキノキバタケ、ふるさと偉人館方面です。この場所のキーワードは「げんげ」です。",
+            "sound_info": "message/wm00642_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は広坂２丁目交差点、しいのき迎賓館方面です。左は金沢市役所入口です。この場所のキーワードは「げんげ」です。",
+            "reading_info": null,
+            "sound_info": "message/wm00642_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は広坂２丁目交差点方面です。右は柿木畠、ふるさと偉人館方面です。この場所のキーワードは「げんげ」です。",
+            "reading_info": "左は広坂２丁目交差点、しいのき迎賓館方面です。右はカキノキバタケ、ふるさと偉人館方面です。この場所のキーワードは「げんげ」です。",
+            "sound_info": "message/wm00642_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は柿木畠、ふるさと偉人館方面です。右は金沢市役所入口です。この場所のキーワードは「げんげ」です。",
+            "reading_info": "前方はカキノキバタケ、ふるさと偉人館方面です。右は金沢市役所入口です。この場所のキーワードは「げんげ」です。",
+            "sound_info": "message/wm00642_3.mp3"
+        }
+    },
+    "643": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、兼六園真弓坂口方面です。右は、本多公園、中村記念美術館方面です。左は、金沢21世紀美術館、金沢市役所方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00643_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、本多公園、中村記念美術館方面です。左は、兼六園真弓坂口方面です。右は、県立図書館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00643_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "ここは、金沢歌劇座前交差点です。前方は、県立図書館方面です。右は、金沢21世紀美術館、金沢市役所方面です。左は、本多公園、中村記念美術館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00643_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "ここは、金沢歌劇座前交差点です。前方は、金沢21世紀美術館、金沢市役所方面です。右は、兼六園真弓坂口方面です。左は、県立図書館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00643_3.mp3"
+        }
+    },
+    "644": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢市役所です。左は柿木畠、ふるさと偉人館方面です。右は広坂２丁目交差点、しいのき迎賓館方面です。",
+            "reading_info": "前方は金沢市役所です。左はカキノキバタケ、ふるさと偉人館方面です。右は広坂２丁目交差点、しいのき迎賓館方面です。",
+            "sound_info": "message/wm00644_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は広坂２丁目交差点、しいのき迎賓館方面です。右は金沢２１世紀美術館方面への横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00644_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢２１世紀美術館方面への横断歩道です。左は広坂２丁目交差点方面です。右は柿木畠、ふるさと偉人館方面です。",
+            "reading_info": "前方は金沢２１世紀美術館方面への横断歩道です。左は広坂２丁目交差点、しいのき迎賓館方面です。右はカキノキバタケ、ふるさと偉人館方面です。",
+            "sound_info": "message/wm00644_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は柿木畠、ふるさと偉人館方面です。左は金沢２１世紀美術館方面への横断歩道です。右は金沢市役所です。",
+            "reading_info": "前方はカキノキバタケ、ふるさと偉人館方面です。左は金沢２１世紀美術館方面への横断歩道です。右は金沢市役所です。",
+            "sound_info": "message/wm00644_3.mp3"
+        }
+    },
+    "645": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "ここは、金沢歌劇座前交差点です。前方は、兼六園真弓坂口方面です。3メートル先に、横断歩道があります。右は、本多公園、中村記念美術館方面です。左は、金沢ふるさと偉人館、金沢市役所方面です。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00645_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、本多公園、中村記念美術館方面です。左は、兼六園真弓坂口方面です。右は、県立図書館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00645_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立図書館方面です。右は、金沢ふるさと偉人館、金沢市役所方面です。左は、本多公園、中村記念美術館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00645_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "ここは、金沢歌劇座前交差点です。前方は、金沢ふるさと偉人館、金沢市役所方面です。右は、兼六園真弓坂口方面です。左は、県立図書館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00645_3.mp3"
+        }
+    },
+    "646": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "ここは、金沢歌劇座前交差点です。前方は、金沢21世紀美術館、兼六園方面です。右は、県立図書館、本多公園、中村記念美術館方面です。左は、金沢ふるさと偉人館、金沢市役所方面です。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00646_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "ここは、金沢歌劇座前交差点です。前方は、本多公園、中村記念美術館、県立図書館方面です。左は、金沢21世紀美術館、兼六園方面です。右は、金沢歌劇座、金沢中警察署方面です。",
+            "reading_info": "ここは、金沢歌劇座前交差点です。前方は、本多公園、中村記念美術館、県立図書館方面です。左は、金沢21世紀美術館、兼六園方面です。右は、金沢歌劇座、金沢ナカ警察署方面です。",
+            "sound_info": "message/wm00646_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、金沢歌劇座、金沢中警察署方面です。右は、金沢ふるさと偉人館、金沢市役所方面です。左は、県立図書館、本多公園、中村記念美術館方面です。",
+            "reading_info": "前方は、金沢歌劇座、金沢ナカ警察署方面です。右は、金沢ふるさと偉人館、金沢市役所方面です。左は、県立図書館、本多公園、中村記念美術館方面です。",
+            "sound_info": "message/wm00646_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、金沢ふるさと偉人館、金沢市役所方面です。右は、金沢21世紀美術館、兼六園方面です。左は、金沢歌劇座、金沢中警察署方面です。",
+            "reading_info": "前方は、金沢ふるさと偉人館、金沢市役所方面です。右は、金沢21世紀美術館、兼六園方面です。左は、金沢歌劇座、金沢ナカ警察署方面です。",
+            "sound_info": "message/wm00646_3.mp3"
+        }
+    },
+    "649": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、市役所窓口センター入口です。左は、市役所本庁舎入口、及び金沢21世紀美術館方面です。右は、百万石通り方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00649_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "左は、市役所窓口センター入口です。前方は、百万石通り方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00649_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "右は、市役所本庁舎入口および金沢21世紀美術館方面、左は、百万石通り方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00649_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右は、市役所窓口センター入口です。前方は、市役所本庁舎入口、及び金沢21世紀美術館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00649_3.mp3"
+        }
+    },
+    "650": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、市役所本庁舎入口です。左は、金沢21世紀美術館方面です。右は、市役所窓口センター入口および百万石通り方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00650_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "左は、市役所本庁舎入口です。前方は、市役所窓口センター入口および百万石通り方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00650_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "右は、金沢21世紀美術館方面、左は、市役所窓口センター入口、および百万石通り方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00650_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右は、市役所本庁舎入口です。前方は、金沢21世紀美術館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00650_3.mp3"
+        }
+    },
+    "652": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、市役所第二本庁舎入口方面です。右は、市役所本庁舎、百万石通り方面です。左は、金沢ふるさと偉人館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00652_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、市役所本庁舎、百万石通り方面です。左は、市役所第二本庁舎入口方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00652_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "右は、金沢ふるさと偉人館方面です。左は、市役所本庁舎、百万石通り方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00652_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、金沢ふるさと偉人館方面です。右は、市役所第二本庁舎入口方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00652_3.mp3"
+        }
+    },
+    "657": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "右は、市役所本庁舎、百万石通り、金沢21世紀美術館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00657_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、市役所本庁舎、百万石通り、金沢21世紀美術館方面です。右は、市役所第二本庁舎入口方面です。2メートル先に、自動ドアがあります。",
+            "reading_info": null,
+            "sound_info": "message/wm00657_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、市役所第二本庁舎入口方面です。2メートル先に、自動ドアがあります。左は、市役所本庁舎、百万石通り、金沢21世紀美術館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00657_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "左は、市役所第二本庁舎入口方面です。2メートル先に、自動ドアがあります。",
+            "reading_info": null,
+            "sound_info": "message/wm00657_3.mp3"
+        }
+    },
+    "658": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、市役所第二本庁舎入口方面です。右は、市役所本庁舎、百万石通り方面です。左は、竪町方面です。",
+            "reading_info": "前方は、市役所第二本庁舎入口方面です。右は、市役所本庁舎、百万石通り方面です。左は、タテマチ方面です。",
+            "sound_info": "message/wm00658_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、市役所本庁舎、百万石通り方面です。右は、金沢ふるさと偉人館方面です。左は、市役所第二本庁舎入口方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00658_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、金沢ふるさと偉人館方面です。右は、竪町方面です。左は、市役所本庁舎、百万石通り方面です。",
+            "reading_info": "前方は、金沢ふるさと偉人館方面です。右は、タテマチ方面です。左は、市役所本庁舎、百万石通り方面です。",
+            "sound_info": "message/wm00658_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、竪町方面です。右は、市役所第二本庁舎入口方面です。左は、金沢ふるさと偉人館方面です。",
+            "reading_info": "前方は、タテマチ方面です。右は、市役所第二本庁舎入口方面です。左は、金沢ふるさと偉人館方面です。",
+            "sound_info": "message/wm00658_3.mp3"
+        }
+    },
+    "660": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、市役所第二本庁舎入口方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00660_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "左は、市役所第二本庁舎入口方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00660_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、1メートル先に、市役所本庁舎、百万石通り、金沢21世紀美術館方面への案内ブロックがあります。",
+            "reading_info": null,
+            "sound_info": "message/wm00660_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右は、市役所第二本庁舎入口方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00660_3.mp3"
+        }
+    },
+    "664": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "右は、市役所本庁舎、百万石通り、金沢21世紀美術館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00664_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、市役所本庁舎、百万石通り、金沢21世紀美術館方面です。右は、市役所第二本庁舎入口方面です。2メートル進んだ、右手方向に、自動ドアがあります。",
+            "reading_info": null,
+            "sound_info": "message/wm00664_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、市役所第二本庁舎入口方面です。2メートル進んだ、右手方向に、自動ドアがあります。左は、市役所本庁舎、百万石通り、金沢21世紀美術館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00664_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "左は、市役所第二本庁舎入口方面です。2メートル進んだ、右手方向に、自動ドアがあります。",
+            "reading_info": null,
+            "sound_info": "message/wm00664_3.mp3"
+        }
+    },
+    "771": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は柿木畠商店街方面です。右は香林坊交差点方面です。左は幅6メートルの、側道があります。注意してください。その先は金沢市役所・兼六園方面です。",
+            "reading_info": "前方はカキノキバタケ商店街方面です。右は香林坊交差点方面です。左は幅6メートルの、側道があります。注意してください。その先は金沢市役所・兼六園方面です。",
+            "sound_info": "message/wm00771_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "側道が終わりました。前方は香林坊交差点方面です。左は柿木畠商店街方面です。",
+            "reading_info": "側道が終わりました。前方は香林坊交差点方面です。左はカキノキバタケ商店街方面です。",
+            "sound_info": "message/wm00771_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "右は幅6メートルの、側道があります。注意してください。その先は金沢市役所・兼六園方面です。左は香林坊交差点方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00771_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は幅6メートルの、側道があります。注意してください。その先は金沢市役所・兼六園方面です。右は柿木畠商店街方面です。",
+            "reading_info": "前方は幅6メートルの、側道があります。注意してください。その先は金沢市役所・兼六園方面です。右はカキノキバタケ商店街方面です。",
+            "sound_info": "message/wm00771_3.mp3"
+        }
+    },
+    "773": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は柿木畠商店街方面です。右は幅6メートルの、側道があります。注意してください。その先は香林坊交差点方面です。左は金沢市役所・兼六園方面です。",
+            "reading_info": "前方はカキノキバタケ商店街方面です。右は幅6メートルの、側道があります。注意してください。その先は香林坊交差点方面です。左は金沢市役所・兼六園方面です。",
+            "sound_info": "message/wm00773_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は幅6メートルの、側道があります。注意してください。その先は香林坊交差点方面です。左は柿木畠商店街方面です。",
+            "reading_info": "前方は幅6メートルの、側道があります。注意してください。その先は香林坊交差点方面です。左はカキノキバタケ商店街方面です。",
+            "sound_info": "message/wm00773_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "右は金沢市役所・兼六園方面です。左は幅6メートルの、側道があります。注意してください。その先は香林坊交差点方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00773_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "側道が終わりました。前方は金沢市役所・兼六園方面です。右は柿木畠商店街方面です。",
+            "reading_info": "側道が終わりました。前方は金沢市役所・兼六園方面です。右はカキノキバタケ商店街方面です。",
+            "sound_info": "message/wm00773_3.mp3"
+        }
+    },
+    "774": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "ここは市役所前交差点です。前方は香林坊交差点方面です。右はいしかわ四高記念公園、しいのき迎賓館方面への横断歩道です。",
+            "reading_info": "ここは市役所前交差点です。前方は香林坊交差点方面です。右はいしかわシコウ記念公園、しいのき迎賓館方面への横断歩道です。",
+            "sound_info": "message/wm00774_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方はいしかわ四高記念公園、しいのき迎賓館方面への横断歩道です。右は市役所、金沢２１世紀美術館、兼六園方面、左は香林坊交差点方面です。",
+            "reading_info": "前方はいしかわシコウ記念公園、しいのき迎賓館方面への横断歩道です。右は市役所、金沢２１世紀美術館、兼六園方面、左は香林坊交差点方面です。",
+            "sound_info": "message/wm00774_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "ここは市役所前交差点です。前方は金沢２１世紀美術館、兼六園真弓坂口方面です。右手に市役所入口があります。左はいしかわ四高記念公園、しいのき迎賓館方面への横断歩道があります。\r\n",
+            "reading_info": "ここは市役所前交差点です。前方は金沢２１世紀美術館、兼六園真弓坂口方面です。右手に市役所入口があります。左はいしかわシコウ記念公園、しいのき迎賓館方面への横断歩道があります。",
+            "sound_info": "message/wm00774_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右は香林坊交差点方面、左斜め前方は、市役所入口。左は金沢２１世紀美術館、兼六園真弓坂口方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00774_3.mp3"
+        }
+    },
+    "777": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は市役所入口です。右は香林坊交差点方面、左は金沢２１世紀美術館、兼六園方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00777_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は香林坊交差点方面。左は市役所入口です。",
+            "reading_info": null,
+            "sound_info": "message/wm00777_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は香林坊交差点方面、右は金沢２１世紀美術館、兼六園方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00777_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢２１世紀美術館、兼六園方面です。右は市役所入口です。",
+            "reading_info": null,
+            "sound_info": "message/wm00777_3.mp3"
+        }
+    },
+    "778": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は香林坊方面です。右は2メートル先に、しいのき迎賓館方面への横断歩道があります。左は市役所、柿木畠方面です。",
+            "reading_info": "前方は香林坊方面です。右は2メートル先に、しいのき迎賓館方面への横断歩道があります。左は市役所、カキノキバタケ方面です。",
+            "sound_info": "message/wm00778_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "ここは広坂２丁目交差点です。前方は2メートル先に、しいのき迎賓館方面への横断歩道があります。\r\n右は金沢２１世紀美術館、兼六園方面で、2メートル先に、横断歩道があります。左は香林坊交差点方面です。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00778_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "ここは広坂２丁目交差点です。前方は金沢２１世紀美術館、兼六園方面で、2メートル先に、横断歩道があります。左は2メートル先に、しいのき迎館方面への横断歩道があります。右は市役所、柿木畠方面です。\r\n",
+            "reading_info": "ここは広坂２丁目交差点です。前方は金沢２１世紀美術館、兼六園方面で、2メートル先に、横断歩道があります。左は2メートル先に、しいのき迎館方面への横断歩道があります。右は市役所、カキノキバタケ方面です。\r\n",
+            "sound_info": "message/wm00778_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は市役所、柿木畠方面です。右は香林坊交差点方面、左は金沢２１世紀美術館、兼六園方面です。",
+            "reading_info": "前方は市役所、カキノキバタケ方面です。右は香林坊交差点方面、左は金沢２１世紀美術館、兼六園方面です。",
+            "sound_info": "message/wm00778_3.mp3"
+        }
+    },
+    "780": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、市役所、香林坊交差点方面への横断歩道があります。右は、しいのき迎賓館方面への横断歩道があります。左は金沢２１世紀美術館方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00780_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、しいのき迎賓館方面への横断歩道があります。右は兼六園方面です。左は、市役所、香林坊交差点方面への横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00780_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は兼六園方面です。右は金沢２１世紀美術館方面です。左は、しいのき迎賓館方面への横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00780_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、金沢２１世紀美術館方面です。点字ブロックはとぎれています。右は、市役所、香林坊交差点方面への横断歩道があります。左は、兼六園方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00780_3.mp3"
+        }
+    },
+    "785": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢２１世紀美術館方面です。前方7メートル先に、点字案内板があります。右は金沢市役所、香林坊交差点方面です。左は兼六園方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00785_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢市役所、香林坊交差点方面です。左は金沢２１世紀美術館方面です。左手7メートル先に、点字案内板があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00785_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "右は兼六園方面です。左は金沢市役所、香林坊交差点方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00785_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は兼六園方面です。右は金沢２１世紀美術館方面です。右手7メートル先に、点字案内板があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00785_3.mp3"
+        }
+    },
+    "786": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は百万石通り方面です。右は３メートル先に、いしかわ四高記念公園方面への横断歩道があります。左は、しいのき迎賓館方面で、点字ブロックはありません。",
+            "reading_info": "前方は百万石通り方面です。右は３メートル先に、いしかわシコウ記念公園方面への横断歩道があります。左は、しいのき迎賓館方面で、点字ブロックはありません。",
+            "sound_info": "message/wm00786_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は3メートル先に、いしかわ四高記念公園方面への横断歩道があります。右は金沢城公園方面です。左は百万石通り方面です。",
+            "reading_info": "前方は3メートル先に、いしかわシコウ記念公園方面への横断歩道があります。右は金沢城公園方面です。左は百万石通り方面です。",
+            "sound_info": "message/wm00786_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢城公園方面です。右は、しいのき迎賓館方面です。点字ブロックはありません。左は、3メートル先に、いしかわ四高記念公園方面への横断歩道があります。",
+            "reading_info": "前方は金沢城公園方面です。右は、しいのき迎賓館方面です。点字ブロックはありません。左は、3メートル先に、いしかわシコウ記念公園方面への横断歩道があります。",
+            "sound_info": "message/wm00786_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、しいのき迎賓館方面です。点字ブロックはありません。右は百万石通り方面です。左は金沢城公園方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00786_3.mp3"
+        }
+    },
+    "788": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は百万石通り方面です。右は、いしかわ四高記念公園方面です。点字ブロックはありません。左は、3メートル先に、しいのき迎賓館方面への横断歩道があります。",
+            "reading_info": "前方は百万石通り方面です。右は、いしかわシコウ記念公園方面です。点字ブロックはありません。左は、3メートル先に、しいのき迎賓館方面への横断歩道があります。",
+            "sound_info": "message/wm00788_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、いしかわ四高記念公園方面です。点字ブロックはありません。右は金沢城公園方面です。左は百万石通り方面です。",
+            "reading_info": "前方は、いしかわシコウ記念公園方面です。点字ブロックはありません。右は金沢城公園方面です。左は百万石通り方面です。",
+            "sound_info": "message/wm00788_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢城公園方面です。右は、3メートル先に、しいのき迎賓館方面への横断歩道があります。左は、いしかわ四高記念公園方面です。点字ブロックはありません。",
+            "reading_info": "前方は金沢城公園方面です。右は、3メートル先に、しいのき迎賓館方面への横断歩道があります。左は、いしかわシコウ記念公園方面です。点字ブロックはありません。",
+            "sound_info": "message/wm00788_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、3メートル先に、しいのき迎賓館方面への横断歩道があります。右は百万石通り方面です。左は金沢城公園方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00788_3.mp3"
+        }
+    },
+    "792": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は百万石通り方面です。右は、いしかわ四高記念公園方面です。点字ブロックはありません。左は、2メートル先に、しいのき迎賓館方面への横断歩道があります。\r\n",
+            "reading_info": "前方は百万石通り方面です。右は、いしかわシコウ記念公園方面です。点字ブロックはありません。左は、2メートル先に、しいのき迎賓館方面への横断歩道があります。\r\n",
+            "sound_info": "message/wm00792_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、いしかわ四高記念公園方面です。点字ブロックはありません。右は金沢城公園方面です。左は百万石通り方面です。",
+            "reading_info": "前方は、いしかわシコウ記念公園方面です。点字ブロックはありません。右は金沢城公園方面です。左は百万石通り方面です。",
+            "sound_info": "message/wm00792_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢城公園方面です。右は、2メートル先に、しいのき迎賓館方面への横断歩道があります。左は、いしかわ四高記念公園方面です。点字ブロックはありません。\r\n",
+            "reading_info": "前方は金沢城公園方面です。右は、2メートル先に、しいのき迎賓館方面への横断歩道があります。左は、いしかわシコウ記念公園方面です。点字ブロックはありません。\r\n",
+            "sound_info": "message/wm00792_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、2メートル先に、しいのき迎賓館方面への横断歩道があります。右は百万石通り方面です。左は金沢城公園方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00792_3.mp3"
+        }
+    },
+    "801": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は百万石通り方面です。右は2メートル先に、いしかわ四高記念公園方面への横断歩道があります。左は、しいのき迎賓館方面で、点字ブロックはありません。\r\n",
+            "reading_info": "前方は百万石通り方面です。右は2メートル先に、いしかわシコウ記念公園方面への横断歩道があります。左は、しいのき迎賓館方面で、点字ブロックはありません。\r\n",
+            "sound_info": "message/wm00801_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は2メートル先に、いしかわ四高記念公園方面への横断歩道があります。右は金沢城公園方面です。左は百万石通り方面です。",
+            "reading_info": "前方は2メートル先に、いしかわシコウ記念公園方面への横断歩道があります。右は金沢城公園方面です。左は百万石通り方面です。",
+            "sound_info": "message/wm00801_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢城公園方面です。右は、しいのき迎賓館方面です。点字ブロックはありません。左は、2メートル先に、いしかわ四高記念公園方面への横断歩道があります。\r\n",
+            "reading_info": "前方は金沢城公園方面です。右は、しいのき迎賓館方面です。点字ブロックはありません。左は、2メートル先に、いしかわシコウ記念公園方面への横断歩道があります。\r\n",
+            "sound_info": "message/wm00801_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、しいのき迎賓館方面です。点字ブロックはありません。右は百万石通り方面です。左は金沢城公園方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00801_3.mp3"
+        }
+    },
+    "802": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "右は、いしかわ四高記念公園方面です。左は、金沢城公園玉泉丸口方面です。",
+            "reading_info": "右は、いしかわシコウ記念公園方面です。左は、金沢城公園ギョクセンマルグチ方面です。",
+            "sound_info": "message/wm00802_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、いしかわ四高記念公園方面です。右は金沢広坂合同庁舎方面への横断歩道があります。",
+            "reading_info": "前方は、いしかわシコウ記念公園方面です。右は金沢広坂合同庁舎方面への横断歩道があります。",
+            "sound_info": "message/wm00802_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢広坂合同庁舎への横断歩道があります。右は金沢城公園玉泉丸口方面です。左は、いしかわ四高記念公園方面です。",
+            "reading_info": "前方は金沢広坂合同庁舎への横断歩道があります。右は金沢城公園ギョクセンマルグチ方面です。左は、いしかわシコウ記念公園方面です。",
+            "sound_info": "message/wm00802_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢城公園玉泉丸口方面です。左は金沢広坂合同庁舎方面への横断歩道があります。",
+            "reading_info": "前方は金沢城公園ギョクセンマルグチ方面です。左は金沢広坂合同庁舎方面への横断歩道があります。",
+            "sound_info": "message/wm00802_3.mp3"
+        }
+    },
+    "804": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢城公園玉泉丸口方面への横断歩道があります。右は、いしかわ四高記念公園方面です。左は、金沢広坂合同庁舎・金沢城公園鼠多門方面です。",
+            "reading_info": "前方は金沢城公園ギョクセンマルグチ方面への横断歩道があります。右は、いしかわシコウ記念公園方面です。左は、金沢広坂合同庁舎・金沢城公園ネズミタモン方面です。",
+            "sound_info": "message/wm00804_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、いしかわ四高記念公園方面です。左は金沢城公園玉泉丸口方面への横断歩道があります。",
+            "reading_info": "前方は、いしかわシコウ記念公園方面です。左は金沢城公園ギョクセンマルグチ方面への横断歩道があります。",
+            "sound_info": "message/wm00804_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "右は金沢広坂合同庁舎・金沢城公園鼠多門方面です。左は、いしかわ四高記念公園方面です。",
+            "reading_info": "右は金沢広坂合同庁舎・金沢城公園ネズミタモン方面です。左は、いしかわシコウ記念公園方面です。",
+            "sound_info": "message/wm00804_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は金沢広坂合同庁舎・金沢城公園鼠多門方面です。右は金沢城公園玉泉丸口方面への横断歩道があります。",
+            "reading_info": "前方は金沢広坂合同庁舎・金沢城公園ネズミタモン方面です。右は金沢城公園ギョクセンマルグチ方面への横断歩道があります。",
+            "sound_info": "message/wm00804_3.mp3"
+        }
+    },
+    "808": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、3メートル先に、ふらっとバス停および県立美術館エリアの案内板があります。右は、国立工芸館方面です。左は広坂交差点方面です。点字ブロックはありません。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00808_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は国立工芸館方面です。右は、60メートル先に、県立美術館の入口があります。階段が2ヶ所ありますので注意してください。左は、3メートル先に、ふらっとバス停および県立美術館エリアの案内板があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00808_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、60メートル先に、県立美術館の入口があります。階段が2ヶ所ありますので注意してください。右は、広坂交差点方面です。点字ブロックはありません。左は、国立工芸館方面です。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00808_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、広坂交差点方面です。点字ブロックはありません。右は、3メートル先に、ふらっとバス停および県立美術館エリアの案内板があります。左は、60メートル先に、県立美術館の入口があります。階段が2ヶ所ありますので注意してください。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00808_3.mp3"
+        }
+    },
+    "816": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "ここは、出羽町交差点です。右は、国立工芸館方面です。側道がありますので注意してください。左は、広坂交差点方面です。15メートル先、右手に、金澤神社方面への横断歩道があります。",
+            "reading_info": "ここは、デワマチ交差点です。右は、国立工芸館方面です。側道がありますので注意してください。左は、広坂交差点方面です。15メートル先、右手に、金澤神社方面への横断歩道があります。",
+            "sound_info": "message/wm00816_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "ここは、出羽町交差点です。前方は、国立工芸館方面です。側道がありますので注意してください。右は、県立美術館および国立工芸館前の緑地方面です。",
+            "reading_info": "ここは、デワマチ交差点です。前方は、国立工芸館方面です。側道がありますので注意してください。右は、県立美術館および国立工芸館前の緑地方面です。",
+            "sound_info": "message/wm00816_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "ここは、出羽町交差点です。前方は、県立美術館および国立工芸館前の緑地方面です。右は、広坂交差点方面です。15メートル先、右手に、金澤神社方面への横断歩道があります。左は、国立工芸館方面です。側道がありますので注意してください。",
+            "reading_info": "ここは、デワマチ交差点です。前方は、県立美術館および国立工芸館前の緑地方面です。右は、広坂交差点方面です。15メートル先、右手に、金澤神社方面への横断歩道があります。左は、国立工芸館方面です。側道がありますので注意してください。",
+            "sound_info": "message/wm00816_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "側道が終わりました。前方は、広坂交差点方面です。15メートル先、右手に、金澤神社方面への横断歩道があります。左は、県立美術館および国立工芸館前の緑地方面です。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00816_3.mp3"
+        }
+    },
+    "833": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "ここは、出羽町交差点です。右は、国立工芸館方面です。左は、広坂交差点方面です。側道がありますので注意してください。20メートル先、右手に、金澤神社方面への横断歩道があります。",
+            "reading_info": "ここは、デワマチ交差点です。右は、国立工芸館方面です。左は、広坂交差点方面です。側道がありますので注意してください。20メートル先、右手に、金澤神社方面への横断歩道があります。",
+            "sound_info": "message/wm00833_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "側道が終わりました。前方は、国立工芸館方面です。右は、県立美術館および国立工芸館前の緑地方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00833_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立美術館および国立工芸館前の緑地方面です。右は、広坂交差点方面です。側道がありますので注意してください。20メートル先、右手に、金澤神社方面への横断歩道があります。左は、国立工芸館方面です。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00833_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、広坂交差点方面です。側道がありますので注意してください。20メートル先、右手に、金澤神社方面への横断歩道があります。左は、県立美術館および国立工芸館前の緑地方面です。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00833_3.mp3"
+        }
+    },
+    "834": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、北陸電力会館、本多の森ホール方面です。右は、国立工芸館の入口方面です。左は、3メートル先に、県立能楽堂方面への横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00834_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、国立工芸館の入口方面です。右は、県立美術館および広坂交差点方面です。左は、北陸電力会館、本多の森ホール方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00834_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立美術館および広坂交差点方面です。右は、3メートル先に、県立能楽堂方面への横断歩道があります。左は、国立工芸館の入口方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00834_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、3メートル先に、県立能楽堂方面への横断歩道があります。右は、北陸電力会館、本多の森ホール方面です。左は、県立美術館および広坂交差点方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00834_3.mp3"
+        }
+    },
+    "836": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、北陸電力会館、本多の森ホール方面です。右は、国立工芸館の入口方面です。左は、県立能楽堂方面への信号機のある横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00836_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、国立工芸館の入口方面です。右は、県立美術館および広坂交差点方面です。左は、北陸電力会館、本多の森ホール方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00836_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立美術館および広坂交差点方面です。右は、県立能楽堂方面への信号機のある横断歩道があります。左は、国立工芸館の入口方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00836_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立能楽堂方面への信号機のある横断歩道があります。右は、北陸電力会館、本多の森ホール方面です。左は、県立美術館および広坂交差点方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00836_3.mp3"
+        }
+    },
+    "840": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立歴史博物館前の緑地方面です。右は、国立工芸館入口方面です。入口まで、およそ90メートルあります。左は、県立能楽堂方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00840_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、国立工芸館入口方面です。入口まで、およそ90メートルあります。右は、2メートル先に、国立工芸館エリアの案内板があります。左は、県立歴史博物館前の緑地方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00840_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、2メートル先に、国立工芸館エリアの案内板があります。右は、県立能楽堂方面です。左は、国立工芸館入口方面です。入口まで、およそ90メートルあります。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00840_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立能楽堂方面です。右は、県立歴史博物館前の緑地方面です。左は、2メートル先に、国立工芸館エリアの案内板があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00840_3.mp3"
+        }
+    },
+    "848": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立能楽堂方面です。右は、県立歴史博物館前の緑地方面です。左は、県立美術館前の緑地方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00848_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立歴史博物館前の緑地方面です。右斜め前方は、国立工芸館入口方面です。入口まで、およそ40メートルあります。左は、県立能楽堂方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00848_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左斜め前方は、国立工芸館入口方面です。入口まで、およそ40メートルあります。右は、県立美術館前の緑地方面です。左は、県立歴史博物館前の緑地方面です。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00848_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立美術館前の緑地方面です。右は、県立能楽堂方面です。左斜め後方は、国立工芸館入口方面です。入口まで、およそ40メートルあります。",
+            "reading_info": null,
+            "sound_info": "message/wm00848_3.mp3"
+        }
+    },
+    "864": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "左斜め前方は、県立能楽堂方面です。右は、県立歴史博物館前の緑地方面です。20メートル先に、ベンチ、50メートル先に、公衆トイレがあります。左は、美術の小径経由で、中村記念美術館方面へ行くことができます。",
+            "reading_info": "左斜め前方は、県立能楽堂方面です。右は、県立歴史博物館前の緑地方面です。20メートル先に、ベンチ、50メートル先に、公衆トイレがあります。左は、美術のコミチ経由で、中村記念美術館方面へ行くことができます。",
+            "sound_info": "message/wm00864_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立歴史博物館前の緑地方面です。20メートル先に、ベンチ、50メートル先に、公衆トイレがあります。右は、国立工芸館入口方面です。入口まで、およそ10メートルあります。左は、県立能楽堂方面です。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00864_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、国立工芸館入口方面です。入口まで、およそ10メートルあります。右は、美術の小径経由で、中村記念美術館方面へ行くことができます。左は、県立歴史博物館前の緑地方面です。20メートル先に、ベンチ、50メートル先に、公衆トイレがあります。",
+            "reading_info": "前方は、国立工芸館入口方面です。入口まで、およそ10メートルあります。右は、美術のコミチ経由で、中村記念美術館方面へ行くことができます。左は、県立歴史博物館前の緑地方面です。20メートル先に、ベンチ、50メートル先に、公衆トイレがあります。",
+            "sound_info": "message/wm00864_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "前方は、美術の小径経由で、中村記念美術館方面へ行くことができます。右斜め前方は、県立能楽堂方面です。左は、国立工芸館入口方面です。入口まで、およそ10メートルあります。",
+            "reading_info": "前方は、美術のコミチ経由で、中村記念美術館方面へ行くことができます。右斜め前方は、県立能楽堂方面です。左は、国立工芸館入口方面です。入口まで、およそ10メートルあります。",
+            "sound_info": "message/wm00864_3.mp3"
+        }
+    },
+    "896": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "https://www.youtube.com/watch?v=KmpLfGiAVfI",
+            "reading_info": "金沢駅,つづみ門の動画を再生します。",
+            "sound_info": "message/wm00896_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "鼓門のモチーフとなったのは金沢で昔から盛んだった能の鼓。プロジェクションマッピングが行われることもあります。\r\n",
+            "reading_info": "つづみ門のモチーフとなったのは金沢で昔から盛んだった能のつづみ。プロジェクションマッピングが行われることもあります。\r\n",
+            "sound_info": "message/wm00896_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "https://youtu.be/xIt5TrmFeuI",
+            "reading_info": null,
+            "sound_info": "message/wm00896_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "金沢の玄関口である金沢駅は、2005年3月20日に、巨大な総ガラス製ドーム「もてなしドーム」と木製の「鼓門」が完成しました。",
+            "reading_info": "金沢の玄関口である金沢駅は、2005年3月20日に、巨大な総ガラス製ドーム「もてなしドーム」と木製の「つづみ門」が完成しました。。",
+            "sound_info": "message/wm00896_3.mp3"
+        }
+    },
+    "897": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立能楽堂方面です。右は、3メートル先に、案内板があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00897_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、3メートル先に、案内板があります。右は、国立工芸館入口方面です。8段の階段を上った後、3メートル先に、入口の自動ドアがあります。左は、県立能楽堂方面です。",
+            "reading_info": null,
+            "sound_info": "message/wm00897_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、国立工芸館入口方面です。8段の階段を上った後、3メートル先に、入口の自動ドアがあります。左は、3メートル先に、案内板があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00897_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右は、県立能楽堂方面です。左は、国立工芸館入口方面です。8段の階段を上った後、3メートル先に、入口の自動ドアがあります。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00897_3.mp3"
+        }
+    },
+    "898": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立能楽堂入口方面です。およそ25メートル先を、左折します。右は、3メートル先に、国立工芸館方面への信号機付き横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00898_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、3メートル先に、国立工芸館方面への信号機付き横断歩道があります。右は、10メートル先に、金澤神社方面への信号機付き横断歩道があります。左は、県立能楽堂入口方面です。およそ25メートル先を、左折します。\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm00898_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、10メートル先に、金澤神社方面への信号機付き横断歩道があります。左は、3メートル先に、国立工芸館方面への信号機付き横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00898_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右は、県立能楽堂入口方面です。およそ25メートル先を、左折します。左は、10メートル先に、金澤神社方面への信号機付き横断歩道があります。",
+            "reading_info": null,
+            "sound_info": "message/wm00898_3.mp3"
+        }
+    },
+    "900": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "右は、国立工芸館方面です。およそ25メートル先を、左折します。",
+            "reading_info": null,
+            "sound_info": "message/wm00900_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、国立工芸館方面です。およそ25メートル先を、左折します。右は、県立能楽堂入口方面です。およそ35メートル先を、右折します。",
+            "reading_info": null,
+            "sound_info": "message/wm00900_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立能楽堂入口方面です。およそ35メートル先を、右折します。左は、国立工芸館方面です。およそ25メートル先を、左折します。",
+            "reading_info": null,
+            "sound_info": "message/wm00900_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "左は、県立能楽堂入口方面です。およそ35メートル先を、右折します。",
+            "reading_info": null,
+            "sound_info": "message/wm00900_3.mp3"
+        }
+    },
+    "904": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "前方は、県立能楽堂入口方面です。15メートル先に、インターホンがあります。右は、国立工芸館方面です。およそ35メートル先を、右折します。",
+            "reading_info": null,
+            "sound_info": "message/wm00904_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、国立工芸館方面です。およそ35メートル先を、右折します。左は、県立能楽堂入口方面です。15メートル先に、インターホンがあります。",
+            "reading_info": null,
+            "sound_info": "message/wm00904_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は、国立工芸館方面です。およそ35メートル先を、右折します。",
+            "reading_info": null,
+            "sound_info": "message/wm00904_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右は、県立能楽堂入口方面です。15メートル先に、インターホンがあります。",
+            "reading_info": null,
+            "sound_info": "message/wm00904_3.mp3"
+        }
+    },
+    "912": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "https://noh-theater.jp/",
+            "reading_info": "前方は、県立能楽堂入口です。1メートル先に、インターホンがあります。右は、国立工芸館方面です。およそ15メートル先を、左折します。",
+            "sound_info": "message/wm00912_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方は、国立工芸館方面です。およそ15メートル先を、左折します。左は、県立能楽堂入口です。1メートル先に、インターホンがあります。",
+            "reading_info": null,
+            "sound_info": "message/wm00912_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左は、国立工芸館方面です。およそ15メートル先を、左折します。",
+            "reading_info": null,
+            "sound_info": "message/wm00912_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右は、県立能楽堂入口です。1メートル先に、インターホンがあります。",
+            "reading_info": null,
+            "sound_info": "message/wm00912_3.mp3"
+        }
+    },
+    "1048581": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "美酒楽園、全開口笑へようこそ。当店自慢の、レタスチャーハン、上海焼きそばを、是非お召し上りください。このお店のキーワードは、「全笑餃子」です。",
+            "reading_info": "ビシュラクエン、ゼンカイコウショウへようこそ。当店自慢の、レタスチャーハン、上海焼きそばを、是非、オメシアガリください。このお店のキーワードは、「ゼンショウギョウザ」です。",
+            "sound_info": "message/wm1048581_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方1メートル先に、美酒楽園、全開口笑の入口があります。",
+            "reading_info": "前方1メートル先に、ビシュラクエン、ゼンカイコウショウの入口があります。",
+            "sound_info": "message/wm1048581_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "左手1メートル先に、美酒楽園、全開口笑の入口があります。",
+            "reading_info": "左手1メートル先に、ビシュラクエン、ゼンカイコウショウの入口があります。",
+            "sound_info": "message/wm1048581_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "http://kakinokist.com/",
+            "reading_info": "ご来店、あんやとお。またのお越しをお待ちしております。カキノキバタケ商店街のガイドブック、カキノキストはこちらです。",
+            "sound_info": "message/wm1048581_3.mp3"
+        }
+    },
+    "1048582": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "金澤鮨、洋次郎へようこそ。熟練の技で、素材を手当て、一流の味を、気兼ねなく、味わえます。地酒も豊富です。このお店のキーワードは「洋次郎」です。",
+            "reading_info": "カナザワスシ、ヨウジロウへようこそ。熟練の技で、素材を手当て、一流の味を、キガネなく、味わえます。地酒も豊富です。このお店のキーワードは「ヨウジロウ」です。",
+            "sound_info": "message/wm1048582_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "左手が、金澤鮨、洋次郎の入口です。",
+            "reading_info": "左手が、カナザワスシ、ヨウジロウの入口です。",
+            "sound_info": "message/wm1048582_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "http://kakinokist.com/",
+            "reading_info": "ご来店、あんやとお。またのお越しをお待ちしております。カキノキバタケ商店街のガイドブック、カキノキストはこちらです。",
+            "sound_info": "message/wm1048582_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右手が、金澤鮨、洋次郎の入口です。",
+            "reading_info": "右手が、カナザワスシ、ヨウジロウの入口です。",
+            "sound_info": "message/wm1048582_3.mp3"
+        }
+    },
+    "1048585": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "和甘味、つぼみへようこそ。当店自慢の、葛きり黒みつ、本蕨もちの香りきなこと黒みつ、を是非お召上がりくだざい。このお店のキーワードは「つぼみ」です。",
+            "reading_info": "ワカンミ、つぼみへようこそ。当店自慢の、クズキリ黒みつ、ホンワラビモチの香りきなこと黒みつを、是非、オメシアガリくだざい。このお店のキーワードは「つぼみ」です。",
+            "sound_info": "message/wm1048585_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "左手は、和甘味、つぼみの入口です。",
+            "reading_info": "左手は、ワカンミ、つぼみの入口です。",
+            "sound_info": "message/wm1048585_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "http://kakinokist.com/",
+            "reading_info": "ご来店、あんやとお。またのお越しをお待ちしております。カキノキバタケ商店街のガイドブック、カキノキストはこちらです。",
+            "sound_info": "message/wm1048585_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右手は、和甘味、つぼみの入口です。",
+            "reading_info": "右手は、ワカンミ、つぼみの入口です。",
+            "sound_info": "message/wm1048585_3.mp3"
+        }
+    },
+    "1048588": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "カプリスへようこそ。当店は、どなたでも、気軽にお楽しみいただける、バーです。スコッチから各種カクテルまでとりそろえています。このお店のキーワードは「プーさん｝です。",
+            "reading_info": null,
+            "sound_info": "message/wm1048588_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "左手が、カプリスの入口です。",
+            "reading_info": null,
+            "sound_info": "message/wm1048588_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "http://kakinokist.com/",
+            "reading_info": "ご来店、あんやとお。またのお越しをお待ちしております。カキノキバタケ商店街のガイドブック、カキノキストはこちらです。",
+            "sound_info": "message/wm1048588_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右手が、カプリスの入口です。",
+            "reading_info": null,
+            "sound_info": "message/wm1048588_3.mp3"
+        }
+    },
+    "1048593": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "ヒッコリーへようこそ。当店では、素敵な音楽に耳を傾けながら、挽きたてのコーヒーを味わうことができます。お気軽にお越しください。このお店のキーワードは「ヒッコリー」です。",
+            "reading_info": null,
+            "sound_info": "message/wm1048593_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "左手が、ヒッコリーの入口です。",
+            "reading_info": null,
+            "sound_info": "message/wm1048593_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "http://kakinokist.com/",
+            "reading_info": "ご来店、あんやとお。またのお越しをお待ちしております。カキノキバタケ商店街のガイドブック、カキノキストはこちらです。",
+            "sound_info": "message/wm1048593_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右手が、ヒッコリーの入口です。",
+            "reading_info": null,
+            "sound_info": "message/wm1048593_3.mp3"
+        }
+    },
+    "1048596": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "ボーノボーノへ、ようこそ。ステーキやパスタのランチが人気です。夜は、当店自慢の、海鮮イタリアンをご用意して、お待ちしております。このお店のキーワードは「ボーノボーノ」です。",
+            "reading_info": "ボーノボーノへ、ようこそ。ステーキやパスタのランチが人気です。夜は、当店自慢の、カイセンイタリアンをご用意して、お待ちしております。このお店のキーワードは「ボーノボーノ」です。",
+            "sound_info": "message/wm1048596_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "前方、左手が、ボーノボーノの入口です。",
+            "reading_info": null,
+            "sound_info": "message/wm1048596_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "1階は、カウンターとテーブル席。2階は団体様用で、宴会も承ります。",
+            "reading_info": null,
+            "sound_info": "message/wm1048596_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "http://kakinokist.com/",
+            "reading_info": "ご来店、あんやとお。またのお越しをお待ちしております。カキノキバタケ商店街のガイドブック、カキノキストはこちらです。",
+            "sound_info": "message/wm1048596_3.mp3"
+        }
+    },
+    "1048600": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "あんこ＆おやつのコジ、へ、ようこそ。当店の看板商品は、どら焼き、コジどら、です。控えめな甘さと、ふわふわな生地が評判です。このお店のキーワードは「コジどら」です。",
+            "reading_info": "あんことおやつ、のコジ、へ、ようこそ。当店の看板商品は、どら焼き、コジどら、です。控えめな甘さと、ふわふわな生地が評判です。このお店のキーワードは「コジどら」です。",
+            "sound_info": "message/wm1048600_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "左手が、あんこ＆おやつコジの入口です。",
+            "reading_info": "左手が、あんことおやつ、コジ、の入口です。",
+            "sound_info": "message/wm1048600_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "http://kakinokist.com/",
+            "reading_info": "ご来店、あんやとお。またのお越しをお待ちしております。カキノキバタケ商店街のガイドブック、カキノキストはこちらです。",
+            "sound_info": "message/wm1048600_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右手が、あんこ＆おやつコジの入口です。",
+            "reading_info": "右手が、あんことおやつ、コジ、の入口です。",
+            "sound_info": "message/wm1048600_3.mp3"
+        }
+    },
+    "1048609": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "マルグリットへ、ようこそ。どこにもない、センスあふれるフラワーアレンジメントが好評です。フラワーレッスンも開催しています。このお店のキーワードは「マルグリット」です。",
+            "reading_info": null,
+            "sound_info": "message/wm1048609_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "左手が、マルグリットの入口です。",
+            "reading_info": null,
+            "sound_info": "message/wm1048609_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "http://kakinokist.com/　",
+            "reading_info": "ご来店、あんやとお。またのお越しをお待ちしております。カキノキバタケ商店街のガイドブック、カキノキストはこちらです。",
+            "sound_info": "message/wm1048609_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右手が、マルグリットの入口です。",
+            "reading_info": null,
+            "sound_info": "message/wm1048609_3.mp3"
+        }
+    },
+    "1048610": {
+        "0": {
+            "guide_category": "normal",
+            "guide_info": "いたる本店へ、ようこそ。新鮮魚介にひと工夫でさらに美味しく。酒と人情料理を、心ゆくまでお楽しみください。このお店のキーワードは「いたる」です。",
+            "reading_info": null,
+            "sound_info": "message/wm1048610_0.mp3"
+        },
+        "1": {
+            "guide_category": "normal",
+            "guide_info": "左手が、いたる本店の入口です。",
+            "reading_info": null,
+            "sound_info": "message/wm1048610_1.mp3"
+        },
+        "2": {
+            "guide_category": "normal",
+            "guide_info": "http://kakinokist.com/　",
+            "reading_info": "ご来店、あんやとお。またのお越しをお待ちしております。カキノキバタケ商店街のガイドブック、カキノキストはこちらです。",
+            "sound_info": "message/wm1048610_2.mp3"
+        },
+        "3": {
+            "guide_category": "normal",
+            "guide_info": "右手が、いたる本店の入口です。\r\n\r\n",
+            "reading_info": null,
+            "sound_info": "message/wm1048610_3.mp3"
+        }
+    }
+}
