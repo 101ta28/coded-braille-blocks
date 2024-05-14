@@ -12,6 +12,13 @@ def load_image(image_path):
     return image
 
 
+# 画像のシャープニングを行う
+def sharpen_image(image):
+    kernel = np.array([[0, -1, 0], [-1, 5, -1], [0, -1, 0]])
+    sharpened = cv2.filter2D(image, -1, kernel)
+    return sharpened
+
+
 # 点字ブロックの外枠を検出
 def detect_outer_rectangle(image):
     _, thresh = cv2.threshold(image, 127, 255, cv2.THRESH_BINARY)
@@ -173,12 +180,15 @@ def classify_cells(grid_data, threshold=0.1):
 def main(image_path):
     image = load_image(image_path)
 
-    outer_rectangle = detect_outer_rectangle(image)
+    # 画像のシャープニング
+    sharpened_image = sharpen_image(image)
+
+    outer_rectangle = detect_outer_rectangle(sharpened_image)
     if outer_rectangle is None:
         raise ValueError("No outer rectangle detected in the image.")
 
     # トリミングして射影変換で補正
-    rectified_image = rectify_perspective(image, outer_rectangle)
+    rectified_image = rectify_perspective(sharpened_image, outer_rectangle)
 
     # 内枠の平均輝度を計算
     mean_intensity = calculate_inner_rectangle_mean_intensity(rectified_image)

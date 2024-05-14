@@ -9,7 +9,6 @@ def load_image(image_path):
     image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
     if image is None:
         raise ValueError(f"Failed to load image: {image_path}")
-    show_image("Original Image", image)
     return image
 
 
@@ -19,6 +18,14 @@ def show_image(window_name, image, width=800, height=800):
     cv2.imshow(window_name, resized_image)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
+
+
+# 画像のシャープニングを行う
+def sharpen_image(image):
+    kernel = np.array([[0, -1, 0], [-1, 5, -1], [0, -1, 0]])
+    sharpened = cv2.filter2D(image, -1, kernel)
+    show_image("Sharpened Image", sharpened)
+    return sharpened
 
 
 # 点字ブロックの外枠を検出
@@ -32,9 +39,6 @@ def detect_outer_rectangle(image):
         epsilon = 0.02 * cv2.arcLength(cnt, True)
         approx = cv2.approxPolyDP(cnt, epsilon, True)
         if len(approx) == 4:
-            rectangle_image = cv2.cvtColor(image, cv2.COLOR_GRAY2BGR)
-            cv2.drawContours(rectangle_image, [approx], -1, (0, 255, 0), 2)
-            show_image("Detected Outer Rectangle", rectangle_image)
             return approx.reshape(-1, 2)
     raise ValueError("No rectangle detected")
 
@@ -72,7 +76,6 @@ def rectify_perspective(image, points):
     rectified_image = cv2.warpPerspective(
         image, M, (int(side_length), int(side_length))
     )
-    show_image("Rectified Image", rectified_image)
     return rectified_image
 
 
@@ -88,11 +91,7 @@ def detect_triangle(image):
             triangles.append((cv2.contourArea(cnt), approx.reshape(-1, 2)))
     if triangles:
         triangles.sort(reverse=True, key=lambda x: x[0])  # 面積でソート
-        triangle = triangles[0][1]  # 最大の三角形を返す
-        triangle_image = cv2.cvtColor(image, cv2.COLOR_GRAY2BGR)
-        cv2.drawContours(triangle_image, [triangle], -1, (0, 255, 0), 2)
-        show_image("Detected Triangle", triangle_image)
-        return triangle
+        return triangles[0][1]  # 最大の三角形を返す
     return None
 
 
@@ -150,7 +149,7 @@ def mask_triangle_area(image, triangle_coords, background_color):
         image[mask == 255] = 255
     else:
         image[mask == 255] = 0
-    show_image("Masked Triangle Area", image)
+    show_image("Masked Image", image)
     return image
 
 
@@ -160,7 +159,6 @@ def analyze_grid(image, grid_size=5):
     step_x = w // grid_size
     step_y = h // grid_size
     grid_data = []
-    grid_image = cv2.cvtColor(image, cv2.COLOR_GRAY2BGR)
     for i in range(grid_size):
         row_data = []
         for j in range(grid_size):
@@ -171,9 +169,8 @@ def analyze_grid(image, grid_size=5):
             cell = image[tl_y:br_y, tl_x:br_x]
             ratio = np.sum(cell < 127) / cell.size
             row_data.append(ratio)
-            cv2.rectangle(grid_image, (tl_x, tl_y), (br_x, br_y), (0, 255, 0), 1)
         grid_data.append(row_data)
-    show_image("Grid Analysis", grid_image)
+    show_image("Grid Analysis", image)
     return grid_data
 
 
@@ -195,12 +192,15 @@ def classify_cells(grid_data, threshold=0.1):
 def main(image_path):
     image = load_image(image_path)
 
-    outer_rectangle = detect_outer_rectangle(image)
+    # 画像のシャープニング
+    sharpened_image = sharpen_image(image)
+
+    outer_rectangle = detect_outer_rectangle(sharpened_image)
     if outer_rectangle is None:
         raise ValueError("No outer rectangle detected in the image.")
 
     # トリミングして射影変換で補正
-    rectified_image = rectify_perspective(image, outer_rectangle)
+    rectified_image = rectify_perspective(sharpened_image, outer_rectangle)
     show_image("Rectified Image", rectified_image)
 
     # 内枠の平均輝度を計算
