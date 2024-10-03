@@ -1,4 +1,8 @@
-# コード化点字ブロック
+# [Deprecated] コード化点字ブロックの二次利用
+
+金沢市のオープンデータポータルで、管理されるようになったため、このリポジトリは非推奨です。
+
+[https://catalog-data.city.kanazawa.ishikawa.jp/dataset/https-www2-kanazawa-it-ac-jp-matsuilb](https://catalog-data.city.kanazawa.ishikawa.jp/dataset/https-www2-kanazawa-it-ac-jp-matsuilb)
 
 ## コード化点字ブロックについて
 
